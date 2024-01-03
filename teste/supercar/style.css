@@ -1,0 +1,42 @@
+body{
+    background-color: #836FFF;    
+    align-items: center;
+    text-align: center;
+    color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+    
+    
+}
+.botao{
+    background-color: #836FFF;
+    color:black;
+    border-radius: 10px;
+    border:none;
+    font-weight: bold;
+}
+.produtos{
+    margin-left: 10%;
+    margin-right: 10%;
+} 
+.log{
+    text-align: center;
+    margin-right: 100px;
+}
+.botao1{
+    background-color: black;
+    color:#836FFF;
+    border-radius: 10px;
+    border:none;
+    font-weight: bold;
+    height: 40px;
+    width: 120px;
+}
+.botao2{
+    background-color: white;
+    color:#836FFF;
+    border-radius: 100px;
+    border:none;
+    font-weight: bold;
+}
